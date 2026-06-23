@@ -1,0 +1,32 @@
+# Large data files — download these using the scripts, don't commit them
+data/
+results/
+torch-ecpg/
+
+# Output files
+*.sqlite
+*.gz
+*.csv
+!install_packages.R
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+pipeline_progress.log

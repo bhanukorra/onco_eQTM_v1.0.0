@@ -1,0 +1,50 @@
+{
+  "title": "Onco-eQTM: Scripts for a Pan-Cancer Atlas of CpG Methylation–Gene Expression Associations",
+  "description": "This repository contains all analysis scripts used to build the Onco-eQTM database — a pan-cancer resource mapping cis-regulatory DNA methylation to gene expression, drug sensitivity, immune infiltration, miRNA regulation, and pathway activity across 27 TCGA cancer types and 6,880 primary tumour samples. The pipeline identifies high-confidence eQTM associations using a consensus strategy combining Torch-eCpG (GPU-accelerated) and MatrixEQTL, then integrates results with four functional layers: drug response (251 GDSC compounds), pathway activity (1,387 PARADIGM pathways), immune infiltration (68 signatures), and miRNA cis-eQTL analysis. This deposit accompanies a manuscript currently under review.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-06-23",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Korra, Bhanu Teja",
+      "affiliation": "Department of Biotechnology, Indian Institute of Technology Hyderabad, India"
+    },
+    {
+      "name": "Nishana, Mayilaadumveettil",
+      "affiliation": "School of Biology, Indian Institute of Science Education and Research Thiruvananthapuram, India"
+    },
+    {
+      "name": "Kumar, Rahul",
+      "affiliation": "Department of Biotechnology, Indian Institute of Technology Hyderabad, India"
+    }
+  ],
+  "keywords": [
+    "eQTM",
+    "DNA methylation",
+    "gene expression",
+    "TCGA",
+    "pan-cancer",
+    "multi-omics",
+    "bioinformatics",
+    "CpG",
+    "Torch-eCpG",
+    "MatrixEQTL",
+    "epigenetics",
+    "cancer genomics",
+    "drug sensitivity",
+    "immune infiltration",
+    "miRNA",
+    "PARADIGM"
+  ],
+  "notes": "This software deposit accompanies a manuscript currently under review. Scripts download and process TCGA multi-omics data from UCSC Xena Hub and related public repositories. The Onco-eQTM web database is available at https://project.iith.ac.in/cgntlab/OncoeQTM/. Citation will be updated with the journal reference upon acceptance.",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://project.iith.ac.in/cgntlab/OncoeQTM/",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
