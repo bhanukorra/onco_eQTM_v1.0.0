@@ -1,5 +1,0 @@
-# Python dependencies for Onco-eQTM pipeline
-# Install with: pip install -r requirements.txt
-
-# Torch-eCpG — GPU-accelerated eQTM discovery
-tecpg
