@@ -1,14 +1,6 @@
 [Uploading README.md…]()
 # Onco-eQTM: Pan-Cancer Expression Quantitative Trait Methylation Pipeline
 
-> **Manuscript:** *Expression Quantitative Trait Methylation Across Multiple Cancer Types with Functional and Therapeutic Characterization using Onco-eQTM*
->
-> **Authors:** Bhanu Teja Korra¹, Mayilaadumveettil Nishana², Rahul Kumar¹*
->
-> ¹Department of Biotechnology, Indian Institute of Technology Hyderabad, 502285, India
-> ²School of Biology, Indian Institute of Science Education and Research Thiruvananthapuram, Kerala 695551, India
->
-> *Correspondence: rahulk@bt.iith.ac.in
 
 ---
 
