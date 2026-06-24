@@ -237,11 +237,7 @@ All analyses apply a false discovery rate (FDR) threshold of ≤ 0.05 using the 
 
 ---
 
-## Funding
 
-- Department of Biotechnology (DBT), Government of India — BT/PR52559/MED/30/2534/2024
-- Indian Council of Medical Research (ICMR), Government of India — IIRPSG-2024-01-02098
-- B.T.K. is supported by a University Grants Commission (UGC) fellowship, Government of India
 
 ---
 
@@ -251,7 +247,3 @@ This code is released under the [MIT License](LICENSE).
 
 ---
 
-## Contact
-
-**Rahul Kumar** | rahulk@bt.iith.ac.in
-Department of Biotechnology, Indian Institute of Technology Hyderabad, India
